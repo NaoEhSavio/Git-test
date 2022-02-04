@@ -10,4 +10,4 @@ Este é um repositorio de teste para projetos futuros
 
 ### linkedin <img src="" alt="linkedin" width="30" />
 
-[@Savioscmendes](https://www.linkedin.com/in/sávio-samuel-correa-mendes-6199131a4/).
+[@Savioscmendes](https://www.linkedin.com/in/savioscmendes/).
